@@ -1,4 +1,4 @@
 ---
-title: *Welcome to my travel blog*
+title: Welcome to my travel blog
 ---
 
